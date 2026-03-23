@@ -60,8 +60,6 @@ jobs:
 
       - name: Rust cache
         uses: swatinem/rust-cache@v2
-        with:
-          workspaces: "./ -> target"
 
       - name: Install frontend dependencies
         working-directory: theseus_gui
