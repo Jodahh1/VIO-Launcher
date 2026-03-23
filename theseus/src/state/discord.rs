@@ -152,7 +152,7 @@ impl DiscordGuard {
         let launcher = read_package_json()?;
 
         let build_info = format!("VIO • v{} patch v{}", launcher.version, launcher.patch_version);
-        let build_download = "https://github.com/VIO-Launcher/VIO/releases";
+        let build_download = "https://github.com/Jodahh1/VIO-Launcher/releases";
 
         let time = SystemTime::now()
             .duration_since(UNIX_EPOCH)

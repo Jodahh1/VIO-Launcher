@@ -4,9 +4,9 @@
   "version": "0.7.2",
   "patch_version": "01 - Beta",
   "development_build": false,
-  "release_repository": "VIO-Launcher/VIO",
-  "release_repository_url": "https://github.com/VIO-Launcher/VIO/releases",
-  "release_api_url": "https://api.github.com/repos/VIO-Launcher/VIO/releases/latest",
+  "release_repository": "Jodahh1/VIO-Launcher",
+  "release_repository_url": "https://github.com/Jodahh1/VIO-Launcher/releases",
+  "release_api_url": "https://api.github.com/repos/Jodahh1/VIO-Launcher/releases/latest",
   "support_telegram": "https://t.me/J0dah",
   "type": "module",
   "scripts": {

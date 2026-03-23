@@ -25,4 +25,17 @@ cargo build --release
 - `target/release/vio_playground.exe`
 
 ## Releases
-https://github.com/VIO-Launcher/VIO/releases
+https://github.com/Jodahh1/VIO-Launcher/releases
+
+## Cross-platform installers
+GitHub Actions builds release installers for:
+- Windows (`.msi`)
+- Linux (`.deb`, `.AppImage`)
+- macOS (`.app`, `.dmg`)
+
+Create and push a version tag to trigger the release workflow:
+
+```bash
+git tag v0.7.2
+git push origin v0.7.2
+```

@@ -10,7 +10,7 @@ members = [
 [workspace.package]
 edition = "2021"
 license = "MIT"
-repository = "https://github.com/VIO-Launcher/VIO"
+repository = "https://github.com/Jodahh1/VIO-Launcher"
 
 [profile.dev]
 opt-level = 0
