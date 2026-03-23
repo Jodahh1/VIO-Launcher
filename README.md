@@ -27,10 +27,9 @@ cargo build --release
 ## Releases
 https://github.com/Jodahh1/VIO-Launcher/releases
 
-## Cross-platform installers
+## Installers
 GitHub Actions builds release installers for:
 - Windows (`.msi`)
-- Linux (`.deb`, `.AppImage`)
 - macOS (`.app`, `.dmg`)
 
 Create and push a version tag to trigger the release workflow:

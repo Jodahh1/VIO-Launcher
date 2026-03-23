@@ -87,8 +87,8 @@
     },
     "updater": {
       "active": false,
-      "endpoints": ["https://launcher-files.modrinth.com/updates.json"],
-      "dialog": true,
+      "endpoints": ["https://api.github.com/repos/Jodahh1/VIO-Launcher/releases/latest"],
+      "dialog": false,
       "pubkey": "dW50cnVzdGVkIGNvbW1lbnQ6IG1pbmlzaWduIHB1YmxpYyBrZXk6IDU0RURDQzk5OTFCNUZDNTkKUldSWi9MV1JtY3p0VlB3MVR2R2dpMk5aMHRGVStiQlZsb29SRUp5bXFSUHpoc2NjL3E2eHh4ckoK"
     },
     "windows": [
